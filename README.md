@@ -44,7 +44,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
 5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
-7. If you'd like to try building pixel-perfect websites, we'd recommend checking out [PixelSnap](http://bit.ly/fem-pixelsnap). It's an awesome tool that let's you quickly measure anything on your screen. The Frontend Mentor community also gets 20% off!
+7. If you'd like to try making your project fully responsive, we'd recommend checking out [Sizzy](http://bit.ly/fem-sizzy). It's a great browser that makes it easy to view your site across multiple devices.
 
 ## Deploying your project
 
