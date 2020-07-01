@@ -74,6 +74,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 A massive thank you to our community sponsors!
 
-- [Vercel](https://bit.ly/fem-vercel) offers an amazing website hosting service, which is super simple to set up. Just connect your GitHub account, point to a repo and your site will be deployed. Perfect for your website and frontend hosting needs - especially since it's free to get started!
 - [Sizzy](https://bit.ly/fm-sizzy) is an extremely useful browser designed specifically to improve a developer's workflow when building websites. You can fire up multiple device emulators and run them all in sync while building out your web pages. Perfect for helping build fully responsive websites!
-- [Qualified](https://bit.ly/fem-qualified) helps companies assess engineers with realistic code tests and pair-programming interviews. Their assessments test on-the-job skills as opposed to algorithmic puzzles which leads to a much better recruitment process for everyone involved.
+- [Diversify Tech](https://bit.ly/fem-diversify-tech) is an amazing resource for underrepresented people in tech. The site features job listings for anyone seeking new opportunities. The resource section is also full of useful links to dive into!
+- [Dracula PRO](https://bit.ly/fem-dracula) is a beautiful dark theme to help keep you focused and productive while you code. The theme isn't just for your editor either. You can also apply it to your most-used apps like your terminal and even Slack!
