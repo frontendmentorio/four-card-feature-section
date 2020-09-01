@@ -74,6 +74,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 A massive thank you to our community sponsors!
 
-- [Sizzy](https://bit.ly/fm-sizzy) is an extremely useful browser designed specifically to improve a developer's workflow when building websites. You can fire up multiple device emulators and run them all in sync while building out your web pages. Perfect for helping build fully responsive websites!
+- [Contrast](https://bit.ly/fem-contrast) reimagines how developers inspect, collaborate, and build components off Figma designs.
 - [Diversify Tech](https://bit.ly/fem-diversify-tech) is an amazing resource for underrepresented people in tech. The site features job listings for anyone seeking new opportunities. The resource section is also full of useful links to dive into!
-- [Dracula PRO](https://bit.ly/fem-dracula) is a beautiful dark theme to help keep you focused and productive while you code. The theme isn't just for your editor either. You can also apply it to your most-used apps like your terminal and even Slack!
+- [Triplebyte](http://bit.ly/fem-triplebyte) can save a lot of time and stress during the job hunting process. Their free, confidential quiz makes it so that companies end up pitching you for their vacant job roles.
