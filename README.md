@@ -34,6 +34,17 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
+## Using AI coding assistants
+
+We've included two files to help you if you're using AI coding assistants (like Claude, GitHub Copilot, Cursor, etc.) while working on this challenge:
+
+- `AGENTS.md` - Contains detailed instructions for AI assistants on how to help you with this challenge. It's tailored to this challenge's difficulty level, so the AI will provide guidance appropriate to your learning stage—offering more support for beginner challenges and encouraging more independence on advanced ones.
+- `CLAUDE.md` - A pointer file that directs Claude-based tools to the AGENTS.md instructions.
+
+**How to use them:** You don't need to do anything! These files are automatically detected by most AI coding tools. The AI will read them and adjust its behavior to be a better learning partner—guiding you toward solutions rather than just giving you the answers.
+
+**Note:** These files are designed to help you *learn*, not to do the work for you. The AI is instructed to ask questions, give hints, and explain concepts rather than writing complete solutions.
+
 ## Building your project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
