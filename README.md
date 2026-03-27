@@ -20,7 +20,9 @@ Your users should:
 
 - View the optimal layout for the site depending on their device's screen size
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+### Want some support on the challenge? 
+
+[Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
 ## Where to find everything
 
@@ -28,7 +30,7 @@ Your task is to build out the project to the designs inside the `/design` folder
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+If you would like the Figma design file to gain experience using professional tools and build more accurate projects faster, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
@@ -64,7 +66,7 @@ As mentioned above, there are many ways to host your project for free. Our recom
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://www.frontendmentor.io/guides/hosting-your-solution).
 
 ## Create a custom `README.md`
 
@@ -76,7 +78,7 @@ Once you've added your information to the template, delete this file and rename 
 
 ## Submitting your solution
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://www.frontendmentor.io/guides/how-to-submit-solutions) for tips on how to do this.
 
 Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
 
@@ -85,8 +87,8 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 There are multiple places you can share your solution:
 
 1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
+2. Share on [X (formerly Twitter)](https://x.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in your post. We'd love to take a look at what you've built and help share it around.
+3. Share your solution on [LinkedIn](https://www.linkedin.com/company/frontend-mentor/).
 4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
 
 We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
